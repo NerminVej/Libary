@@ -1,6 +1,6 @@
 # Project: Libary
 
-#Assignments
+##Assignments
 
 1. If you haven’t already, set up your project with skeleton HTML/CSS and JS files.
 
