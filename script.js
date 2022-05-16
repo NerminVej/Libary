@@ -38,8 +38,9 @@ function addBookToLibary(){
     let inputName = prompt("Enter the book name:");
     let inputAuthor = prompt("Enter the book author:");
     let inputPages = prompt("Enter the number of pages:");
+    let inputRead = prompt("Have you read this book?");
 
-    const bookObj = new Book(inputName,inputAuthor,inputPages);
+    const bookObj = new Book(inputName,inputAuthor,inputPages,inputRead);
     
     //To add the bookObj to the libary array
     myLibary.push(bookObj)
