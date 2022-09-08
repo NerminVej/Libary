@@ -1,5 +1,7 @@
 # Project: Libary
 
+Simple Libary Application That Can Ask for some User Input And Has an Interface.
+
 ## Assignments
 
 1. If you haven’t already, set up your project with skeleton HTML/CSS and JS files.
